@@ -1,0 +1,4 @@
+MapCtrl
+- Afficher l'échelle.
+
+
